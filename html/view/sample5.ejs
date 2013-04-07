@@ -1,0 +1,7 @@
+<script type="text/ejs" id="list">
+<ul>
+[% for(var i = 0; i < list.length; i++) { %]
+	<li>[%= list[i].itemname %]: [%= list[i].price %]</li>
+[% } %]
+</ul>
+</script>
