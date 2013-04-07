@@ -1,2 +1,2 @@
-hifive_smaple
+hifive_sample
 =============
